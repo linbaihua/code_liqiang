@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+config/env.js
+config/getHttpsConfig.js
+config/modules.js
+config/paths.js
+config/webpackDevServer.config.js
+config/jest/babelTransform.js
+config/jest/cssTransform.js
+config/jest/fileTransform.js
+config/webpack/persistentCache/createEnvironmentHash.js
+scripts/build.js
+scripts/start.js
+scripts/test.js
